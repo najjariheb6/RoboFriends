@@ -5,6 +5,7 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 import App from './App';
+import BrowserRouter from 'react-router-dom/BrowserRouter'
 
 ReactDOM.render(
   <React.StrictMode>
